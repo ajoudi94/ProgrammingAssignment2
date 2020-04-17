@@ -1,6 +1,6 @@
 ## This Assignment is to calculate the invese of a matrix using a special method.
 ## This method is used as an efficient alternative
-
+#edited
 ## This function caches the matrix provided(saves its content in the function)
 makeCacheMatrix <- function(x = matrix()) {
 
